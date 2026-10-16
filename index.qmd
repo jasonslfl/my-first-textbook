@@ -1,0 +1,21 @@
+---
+title: "IB Biology"
+subtitle: "An Online Textbook for High School Students"
+---
+
+# Welcome to IB Biology
+
+Welcome to this online textbook for IB Biology students.
+
+This textbook is designed to help you understand biology,
+connect biological concepts to real-world examples, and
+prepare for assessments.
+
+## How to use this textbook
+
+Each chapter contains explanations, diagrams, examples,
+and opportunities to test your understanding.
+
+## Start learning
+
+Our first topic is **Cell Biology**.
