@@ -1,0 +1,14 @@
+project:
+  type: book
+
+book:
+  title: "IB Biology"
+  subtitle: "An Online Textbook for High School Students"
+  author: "The Viridian Ark"
+
+  chapters:
+    - index.qmd
+    - 01-cell-biology.qmd
+    - 02-molecular-biology.qmd
+    - 03-genetics.qmd
+    - 04-ecology.qmd

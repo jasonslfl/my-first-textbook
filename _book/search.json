@@ -1,0 +1,112 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IB Biology",
+    "section": "",
+    "text": "1 Welcome\nWelcome to IB Biology.\nThis online textbook is designed to help high school students develop a strong conceptual understanding of biology.\nThe goal isn’t simply to memorize biological facts. Instead, we will focus on understanding how biological systems work, how scientists investigate them, and how different areas of biology connect with one another.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>IB Biology</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-textbook",
+    "href": "index.html#how-to-use-this-textbook",
+    "title": "IB Biology",
+    "section": "1.1 How to use this textbook",
+    "text": "1.1 How to use this textbook\nEach chapter contains explanations, diagrams, examples, and opportunities to test your understanding.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>IB Biology</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#start-learning",
+    "href": "index.html#start-learning",
+    "title": "IB Biology",
+    "section": "1.2 Start learning",
+    "text": "1.2 Start learning\nOur first topic is Cell Biology.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>IB Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html",
+    "href": "01-cell-biology.html",
+    "title": "2  Cell Biology",
+    "section": "",
+    "text": "2.1 Introduction\nCells are the fundamental units of living organisms.\nIn this chapter, we will explore how cells are organized, how their structures relate to their functions, and how cells interact with their environments.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#learning-objectives",
+    "href": "01-cell-biology.html#learning-objectives",
+    "title": "2  Cell Biology",
+    "section": "2.2 Learning objectives",
+    "text": "2.2 Learning objectives\nBy the end of this chapter, you should be able to:\n\nexplain the basic principles of cell theory\ndistinguish between prokaryotic and eukaryotic cells\nidentify major cellular structures\nrelate cellular structures to their functions",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#why-cells-matter",
+    "href": "01-cell-biology.html#why-cells-matter",
+    "title": "2  Cell Biology",
+    "section": "2.3 Why cells matter",
+    "text": "2.3 Why cells matter\nAll organisms are made of one or more cells.\nAlthough cells can differ enormously in size, shape, and function, they share important characteristics.\nUnderstanding cells provides a foundation for understanding many other areas of biology.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "04-ecology.html",
+    "href": "04-ecology.html",
+    "title": "5  Ecology",
+    "section": "",
+    "text": "This chapter explores interactions between organisms and their environments.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Ecology</span>"
+    ]
+  },
+  {
+    "objectID": "03-genetics.html",
+    "href": "03-genetics.html",
+    "title": "4  Genetics",
+    "section": "",
+    "text": "This chapter introduces genes, inheritance, variation, and the relationship between DNA and biological traits.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Genetics</span>"
+    ]
+  },
+  {
+    "objectID": "02-molecular-biology.html",
+    "href": "02-molecular-biology.html",
+    "title": "3  Molecular Biology",
+    "section": "",
+    "text": "This chapter introduces the molecules and chemical processes that are fundamental to life.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Molecular Biology</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-book",
+    "href": "index.html#how-to-use-this-book",
+    "title": "IB Biology",
+    "section": "1.1 How to use this book",
+    "text": "1.1 How to use this book\nEach chapter combines:\n\nexplanations of important biological concepts\ndiagrams and visual models\nreal-world examples\nquestions to check your understanding\ndata-analysis activities\nexam-style practice",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>IB Biology</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#start-here",
+    "href": "index.html#start-here",
+    "title": "IB Biology",
+    "section": "1.2 Start here",
+    "text": "1.2 Start here\nBegin with Cell Biology to build the foundation for understanding living systems.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>IB Biology</span>"
+    ]
+  }
+]

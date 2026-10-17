@@ -1,0 +1,28 @@
+# Cell Biology
+
+## Introduction
+
+Cells are the fundamental units of living organisms.
+
+In this chapter, we will explore how cells are organized,
+how their structures relate to their functions, and how
+cells interact with their environments.
+
+## Learning objectives
+
+By the end of this chapter, you should be able to:
+
+- explain the basic principles of cell theory
+- distinguish between prokaryotic and eukaryotic cells
+- identify major cellular structures
+- relate cellular structures to their functions
+
+## Why cells matter
+
+All organisms are made of one or more cells.
+
+Although cells can differ enormously in size, shape, and
+function, they share important characteristics.
+
+Understanding cells provides a foundation for understanding
+many other areas of biology.
