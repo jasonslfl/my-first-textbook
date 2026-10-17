@@ -1,0 +1,122 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IB Biology",
+    "section": "",
+    "text": "1 Welcome\nWelcome to IB Biology.\nThis online textbook is designed to help high school students develop a strong conceptual understanding of biology.\nThe goal isn’t simply to memorize biological facts. Instead, we will focus on understanding how biological systems work, how scientists investigate them, and how different areas of biology connect with one another.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>IB Biology</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-book",
+    "href": "index.html#how-to-use-this-book",
+    "title": "IB Biology",
+    "section": "1.1 How to use this book",
+    "text": "1.1 How to use this book\nEach chapter combines:\n\nexplanations of important biological concepts\ndiagrams and visual models\nreal-world examples\nquestions to check your understanding\ndata-analysis activities\nexam-style practice",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>IB Biology</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#start-here",
+    "href": "index.html#start-here",
+    "title": "IB Biology",
+    "section": "1.2 Start here",
+    "text": "1.2 Start here\nBegin with Cell Biology to build the foundation for understanding living systems.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>IB Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html",
+    "href": "01-cell-biology.html",
+    "title": "2  Cell Biology",
+    "section": "",
+    "text": "2.1 Introduction\nCells are the fundamental units of living organisms.\nAlthough cells vary enormously in structure and function, all cells share several fundamental characteristics.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#learning-objectives",
+    "href": "01-cell-biology.html#learning-objectives",
+    "title": "2  Cell Biology",
+    "section": "2.2 Learning objectives",
+    "text": "2.2 Learning objectives\nBy the end of this chapter, you should be able to:\n\nexplain the main principles of cell theory\ndistinguish between prokaryotic and eukaryotic cells\nidentify major cellular structures\nrelate cellular structure to cellular function\nexplain why cells must remain relatively small",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#cell-theory",
+    "href": "01-cell-biology.html#cell-theory",
+    "title": "2  Cell Biology",
+    "section": "2.3 1.1 Cell theory",
+    "text": "2.3 1.1 Cell theory\nCell theory provides a fundamental framework for understanding biology.\nThe modern version of cell theory includes several key ideas:\n\nAll living organisms are composed of one or more cells.\nThe cell is the basic structural and functional unit of life.\nCells arise from pre-existing cells.\n\nThese principles provide a foundation for understanding the organization of living systems.\n\n\n\n\n\n\nTipBiology tip\n\n\n\nWhen studying cell biology, don’t memorize structures in isolation.\nAlways ask:\nHow does the structure of a cell or organelle help it perform its function?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#cell-organization",
+    "href": "01-cell-biology.html#cell-organization",
+    "title": "2  Cell Biology",
+    "section": "2.4 1.2 Cell organization",
+    "text": "2.4 1.2 Cell organization\nCells contain structures that work together to maintain the organization and processes necessary for life.\n\n\n\n\n\n\nFigure 2.1: Generalized organization of a cell\n\n\n\nFigure 2.1 shows a simplified representation of cellular organization. The structures within a cell work together as an integrated system.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#prokaryotic-and-eukaryotic-cells",
+    "href": "01-cell-biology.html#prokaryotic-and-eukaryotic-cells",
+    "title": "2  Cell Biology",
+    "section": "2.5 Prokaryotic and eukaryotic cells",
+    "text": "2.5 Prokaryotic and eukaryotic cells\nCells can be broadly classified as prokaryotic or eukaryotic.\n\n2.5.1 Prokaryotic cells\nProkaryotic cells do not have a membrane-bound nucleus.\nBacteria are examples of organisms whose cells are prokaryotic.\n\n\n2.5.2 Eukaryotic cells\nEukaryotic cells contain a nucleus surrounded by a membrane.\nAnimals, plants, fungi, and protists contain eukaryotic cells.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#check-your-understanding",
+    "href": "01-cell-biology.html#check-your-understanding",
+    "title": "2  Cell Biology",
+    "section": "2.6 Check your understanding",
+    "text": "2.6 Check your understanding\n\n2.6.1 Question 1\nWhich structure contains most of the genetic material in a typical eukaryotic cell?\n\nRibosome\nNucleus\nCell wall\nMitochondrion\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nNucleus\nIn a typical eukaryotic cell, most of the cell’s DNA is contained within the nucleus. The nucleus is surrounded by a nuclear envelope that separates its contents from the cytoplasm.\nMitochondria also contain a small amount of DNA, which is why the phrase “most of the genetic material” is important.\n\n\n\n\n\n2.6.2 Question 2 — Explain your reasoning\nA student says:\n\n“Mitochondria can’t contain DNA because DNA is only found in the nucleus.”\n\nIs the student’s statement correct?\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nNo.\nMitochondria contain their own small amount of DNA. However, the vast majority of a eukaryotic cell’s DNA is located in the nucleus.\nThis is an example of why biological statements need to be interpreted carefully. Saying that DNA is “in the nucleus” is useful as a generalization, but it is not literally true for every DNA molecule in a eukaryotic cell.\n\n\n\n\n\n\n\n\n\nTipThink about it\n\n\n\nWhy might it be useful for a cell to keep most of its DNA inside a membrane-bound nucleus?\nThink about what the nucleus separates from the rest of the cell.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "02-molecular-biology.html",
+    "href": "02-molecular-biology.html",
+    "title": "3  Molecular Biology",
+    "section": "",
+    "text": "This chapter introduces the molecules and chemical processes that are fundamental to life.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Molecular Biology</span>"
+    ]
+  },
+  {
+    "objectID": "03-genetics.html",
+    "href": "03-genetics.html",
+    "title": "4  Genetics",
+    "section": "",
+    "text": "This chapter introduces genes, inheritance, variation, and the relationship between DNA and biological traits.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Genetics</span>"
+    ]
+  },
+  {
+    "objectID": "04-ecology.html",
+    "href": "04-ecology.html",
+    "title": "5  Ecology",
+    "section": "",
+    "text": "This chapter explores interactions between organisms and their environments.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Ecology</span>"
+    ]
+  }
+]
