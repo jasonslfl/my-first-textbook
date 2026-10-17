@@ -43,7 +43,18 @@ Always ask:
 perform its function?**
 :::
 
-## 1.2 Prokaryotic and eukaryotic cells
+## 1.2 Cell organization
+
+Cells contain structures that work together to maintain
+the organization and processes necessary for life.
+
+![Generalized organization of a cell](images/cell-organization.svg){#fig-cell-organization}
+
+@fig-cell-organization shows a simplified
+representation of cellular organization. The structures
+within a cell work together as an integrated system.
+
+## Prokaryotic and eukaryotic cells
 
 Cells can be broadly classified as prokaryotic or eukaryotic.
 
@@ -64,16 +75,57 @@ Animals, plants, fungi, and protists contain eukaryotic cells.
 
 ### Question 1
 
-What is the fundamental unit of life?
+Which structure contains most of the genetic material in a
+typical eukaryotic cell?
 
-### Question 2
+- Ribosome
+- Nucleus
+- Cell wall
+- Mitochondrion
 
-What is one major structural difference between a prokaryotic
-cell and a eukaryotic cell?
+::: {.callout-note collapse="true"}
+## Answer
 
-::: {.callout-note}
+**Nucleus**
+
+In a typical eukaryotic cell, most of the cell's DNA is
+contained within the nucleus. The nucleus is surrounded by
+a nuclear envelope that separates its contents from the
+cytoplasm.
+
+Mitochondria also contain a small amount of DNA, which is
+why the phrase "most of the genetic material" is important.
+:::
+
+### Question 2 — Explain your reasoning
+
+A student says:
+
+> "Mitochondria can't contain DNA because DNA is only found
+> in the nucleus."
+
+Is the student's statement correct?
+
+::: {.callout-note collapse="true"}
+## Answer
+
+No.
+
+Mitochondria contain their own small amount of DNA. However,
+the vast majority of a eukaryotic cell's DNA is located in
+the nucleus.
+
+This is an example of why biological statements need to be
+interpreted carefully. Saying that DNA is "in the nucleus"
+is useful as a generalization, but it is not literally true
+for every DNA molecule in a eukaryotic cell.
+:::
+
+::: {.callout-tip}
 ## Think about it
 
-Why might having DNA enclosed inside a nucleus be advantageous
-for a eukaryotic cell?
-:::
+Why might it be useful for a cell to keep most of its DNA
+inside a membrane-bound nucleus?
+
+Think about what the nucleus separates from the rest of
+the cell.

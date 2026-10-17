@@ -123,8 +123,8 @@
     "objectID": "01-cell-biology.html#check-your-understanding",
     "href": "01-cell-biology.html#check-your-understanding",
     "title": "2  Cell Biology",
-    "section": "2.5 Check your understanding",
-    "text": "2.5 Check your understanding\n\n2.5.1 Question 1\nWhat is the fundamental unit of life?\n\n\n2.5.2 Question 2\nWhat is one major structural difference between a prokaryotic cell and a eukaryotic cell?\n\n\n\n\n\n\nNoteThink about it\n\n\n\nWhy might having DNA enclosed inside a nucleus be advantageous for a eukaryotic cell?",
+    "section": "2.6 Check your understanding",
+    "text": "2.6 Check your understanding\nQuestion 1\nWhich structure contains most of the genetic material in a typical eukaryotic cell?\n\nRibosome\nNucleus\nCell wall\nMitochondrion\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nNucleus\nIn a typical eukaryotic cell, most of the cell’s DNA is contained within the nucleus. The nucleus is surrounded by a nuclear envelope that separates its contents from the cytoplasm.\nMitochondria also contain a small amount of DNA, which is why the phrase “most of the genetic material” is important.\n\n\n\n\n2.6.1 Question 2 — Explain your reasoning\nA student says:\n\n“Mitochondria can’t contain DNA because DNA is only found in the nucleus.”\n\nIs the student’s statement correct?\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nNo.\nMitochondria contain their own small amount of DNA. However, the vast majority of a eukaryotic cell’s DNA is located in the nucleus.\nThis is an example of why biological statements need to be interpreted carefully. Saying that DNA is “in the nucleus” is useful as a generalization, but it is not literally true for every DNA molecule in a eukaryotic cell.\n\n\n\n\n\n\n\n\n\nTipThink about it\n\n\n\nWhy might it be useful for a cell to keep most of its DNA inside a membrane-bound nucleus?\nThink about what the nucleus separates from the rest of the cell.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
     ]
@@ -143,8 +143,18 @@
     "objectID": "01-cell-biology.html#prokaryotic-and-eukaryotic-cells",
     "href": "01-cell-biology.html#prokaryotic-and-eukaryotic-cells",
     "title": "2  Cell Biology",
-    "section": "2.4 1.2 Prokaryotic and eukaryotic cells",
-    "text": "2.4 1.2 Prokaryotic and eukaryotic cells\nCells can be broadly classified as prokaryotic or eukaryotic.\n\n2.4.1 Prokaryotic cells\nProkaryotic cells do not have a membrane-bound nucleus.\nBacteria are examples of organisms whose cells are prokaryotic.\n\n\n2.4.2 Eukaryotic cells\nEukaryotic cells contain a nucleus surrounded by a membrane.\nAnimals, plants, fungi, and protists contain eukaryotic cells.",
+    "section": "2.5 Prokaryotic and eukaryotic cells",
+    "text": "2.5 Prokaryotic and eukaryotic cells\nCells can be broadly classified as prokaryotic or eukaryotic.\n\n2.5.1 Prokaryotic cells\nProkaryotic cells do not have a membrane-bound nucleus.\nBacteria are examples of organisms whose cells are prokaryotic.\n\n\n2.5.2 Eukaryotic cells\nEukaryotic cells contain a nucleus surrounded by a membrane.\nAnimals, plants, fungi, and protists contain eukaryotic cells.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#cell-organization",
+    "href": "01-cell-biology.html#cell-organization",
+    "title": "2  Cell Biology",
+    "section": "2.4 1.2 Cell organization",
+    "text": "2.4 1.2 Cell organization\nCells contain structures that work together to maintain the organization and processes necessary for life.\n\n\n\n\n\n\nFigure 2.1: Generalized organization of a cell\n\n\n\nFigure 2.1 shows a simplified representation of cellular organization. The structures within a cell work together as an integrated system.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
     ]
