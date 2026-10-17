@@ -4,25 +4,76 @@
 
 Cells are the fundamental units of living organisms.
 
-In this chapter, we will explore how cells are organized,
-how their structures relate to their functions, and how
-cells interact with their environments.
+Although cells vary enormously in structure and function,
+all cells share several fundamental characteristics.
 
 ## Learning objectives
 
 By the end of this chapter, you should be able to:
 
-- explain the basic principles of cell theory
+- explain the main principles of cell theory
 - distinguish between prokaryotic and eukaryotic cells
 - identify major cellular structures
-- relate cellular structures to their functions
+- relate cellular structure to cellular function
+- explain why cells must remain relatively small
 
-## Why cells matter
+## 1.1 Cell theory
 
-All organisms are made of one or more cells.
+Cell theory provides a fundamental framework for understanding
+biology.
 
-Although cells can differ enormously in size, shape, and
-function, they share important characteristics.
+The modern version of cell theory includes several key ideas:
 
-Understanding cells provides a foundation for understanding
-many other areas of biology.
+1. All living organisms are composed of one or more cells.
+2. The cell is the basic structural and functional unit of life.
+3. Cells arise from pre-existing cells.
+
+These principles provide a foundation for understanding the
+organization of living systems.
+
+::: {.callout-tip}
+## Biology tip
+
+When studying cell biology, don't memorize structures in
+isolation.
+
+Always ask:
+
+**How does the structure of a cell or organelle help it
+perform its function?**
+:::
+
+## 1.2 Prokaryotic and eukaryotic cells
+
+Cells can be broadly classified as prokaryotic or eukaryotic.
+
+### Prokaryotic cells
+
+Prokaryotic cells do not have a membrane-bound nucleus.
+
+Bacteria are examples of organisms whose cells are
+prokaryotic.
+
+### Eukaryotic cells
+
+Eukaryotic cells contain a nucleus surrounded by a membrane.
+
+Animals, plants, fungi, and protists contain eukaryotic cells.
+
+## Check your understanding
+
+### Question 1
+
+What is the fundamental unit of life?
+
+### Question 2
+
+What is one major structural difference between a prokaryotic
+cell and a eukaryotic cell?
+
+::: {.callout-note}
+## Think about it
+
+Why might having DNA enclosed inside a nucleus be advantageous
+for a eukaryotic cell?
+:::

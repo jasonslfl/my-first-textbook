@@ -34,7 +34,7 @@
     "href": "01-cell-biology.html",
     "title": "2  Cell Biology",
     "section": "",
-    "text": "2.1 Introduction\nCells are the fundamental units of living organisms.\nIn this chapter, we will explore how cells are organized, how their structures relate to their functions, and how cells interact with their environments.",
+    "text": "2.1 Introduction\nCells are the fundamental units of living organisms.\nAlthough cells vary enormously in structure and function, all cells share several fundamental characteristics.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
     ]
@@ -44,7 +44,7 @@
     "href": "01-cell-biology.html#learning-objectives",
     "title": "2  Cell Biology",
     "section": "2.2 Learning objectives",
-    "text": "2.2 Learning objectives\nBy the end of this chapter, you should be able to:\n\nexplain the basic principles of cell theory\ndistinguish between prokaryotic and eukaryotic cells\nidentify major cellular structures\nrelate cellular structures to their functions",
+    "text": "2.2 Learning objectives\nBy the end of this chapter, you should be able to:\n\nexplain the main principles of cell theory\ndistinguish between prokaryotic and eukaryotic cells\nidentify major cellular structures\nrelate cellular structure to cellular function\nexplain why cells must remain relatively small",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
     ]
@@ -107,6 +107,46 @@
     "text": "1.2 Start here\nBegin with Cell Biology to build the foundation for understanding living systems.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>IB Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#what-is-a-cell",
+    "href": "01-cell-biology.html#what-is-a-cell",
+    "title": "2  Cell Biology",
+    "section": "2.3 1.1 What is a cell?",
+    "text": "2.3 1.1 What is a cell?\nA cell is the smallest unit of an organism that can carry out the characteristics of life.\nSome organisms consist of a single cell, while others are made of many specialized cells.\n\n2.3.1 Cells as systems\nA useful way to think about a cell is as a system.\nMatter and energy enter the cell, chemical reactions occur within it, and materials leave the cell.\nThe components of the cell work together rather than operating independently.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#check-your-understanding",
+    "href": "01-cell-biology.html#check-your-understanding",
+    "title": "2  Cell Biology",
+    "section": "2.5 Check your understanding",
+    "text": "2.5 Check your understanding\n\n2.5.1 Question 1\nWhat is the fundamental unit of life?\n\n\n2.5.2 Question 2\nWhat is one major structural difference between a prokaryotic cell and a eukaryotic cell?\n\n\n\n\n\n\nNoteThink about it\n\n\n\nWhy might having DNA enclosed inside a nucleus be advantageous for a eukaryotic cell?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#cell-theory",
+    "href": "01-cell-biology.html#cell-theory",
+    "title": "2  Cell Biology",
+    "section": "2.3 1.1 Cell theory",
+    "text": "2.3 1.1 Cell theory\nCell theory provides a fundamental framework for understanding biology.\nThe modern version of cell theory includes several key ideas:\n\nAll living organisms are composed of one or more cells.\nThe cell is the basic structural and functional unit of life.\nCells arise from pre-existing cells.\n\nThese principles provide a foundation for understanding the organization of living systems.\n\n\n\n\n\n\nTipBiology tip\n\n\n\nWhen studying cell biology, don’t memorize structures in isolation.\nAlways ask:\nHow does the structure of a cell or organelle help it perform its function?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
+    ]
+  },
+  {
+    "objectID": "01-cell-biology.html#prokaryotic-and-eukaryotic-cells",
+    "href": "01-cell-biology.html#prokaryotic-and-eukaryotic-cells",
+    "title": "2  Cell Biology",
+    "section": "2.4 1.2 Prokaryotic and eukaryotic cells",
+    "text": "2.4 1.2 Prokaryotic and eukaryotic cells\nCells can be broadly classified as prokaryotic or eukaryotic.\n\n2.4.1 Prokaryotic cells\nProkaryotic cells do not have a membrane-bound nucleus.\nBacteria are examples of organisms whose cells are prokaryotic.\n\n\n2.4.2 Eukaryotic cells\nEukaryotic cells contain a nucleus surrounded by a membrane.\nAnimals, plants, fungi, and protists contain eukaryotic cells.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cell Biology</span>"
     ]
   }
 ]

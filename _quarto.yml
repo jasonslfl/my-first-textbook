@@ -4,7 +4,7 @@ project:
 book:
   title: "IB Biology"
   subtitle: "An Online Textbook for High School Students"
-  author: "The Viridian Ark"
+  author: "Jason"
 
   chapters:
     - index.qmd
@@ -12,3 +12,9 @@ book:
     - 02-molecular-biology.qmd
     - 03-genetics.qmd
     - 04-ecology.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
