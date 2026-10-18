@@ -1,0 +1,191 @@
+# Cell Biology
+
+## Introduction
+
+Every living organism, from a single-celled bacterium to a giant redwood tree, is made of cells. Cells carry out the processes that sustain life, including metabolism, growth, responses to the environment, and the transmission of genetic information.
+
+Understanding cells helps explain how living organisms function, how they develop, and how life continues from one generation to the next.
+
+## Learning objectives
+
+By the end of this section, you should be able to:
+
+- State the main principles of cell theory.
+- Explain why cells are considered the basic units of life.
+- Describe how evidence supports cell theory.
+- Explain why scientific theories can be revised when new evidence becomes available.
+
+## 1.1 Cell theory
+
+### What is a cell?
+
+A cell is the smallest unit of an organism capable of carrying out the processes associated with life. Some organisms consist of a single cell, while multicellular organisms contain many cells that may become specialized for different functions.
+
+Despite their diversity, cells share several fundamental characteristics. They contain genetic material, carry out chemical reactions, and exchange materials and energy with their surroundings.
+
+### The principles of cell theory
+
+Modern cell theory is based on three central principles:
+
+1. All living organisms are composed of one or more cells.
+2. The cell is the basic structural and functional unit of life.
+3. All cells arise from pre-existing cells.
+
+The first principle establishes that cells are the building blocks of living organisms. The second emphasizes that cells perform the processes necessary for life. The third explains that new cells form through the division of existing cells.
+
+Together, these principles provide a foundation for understanding the organization and continuity of life.
+
+### Evidence and the development of cell theory
+
+Cell theory developed through the work of many scientists and advances in microscopy. Observations of plant and animal tissues revealed that organisms consist of cells. Later observations of cell division helped establish that cells arise from existing cells.
+
+This history illustrates an important feature of science: explanations are developed from observations and evidence, and scientific understanding can change as new methods and discoveries become available.
+
+::: {.callout-tip}
+## Biology tip
+
+Distinguish between a **cell** and an **organism**. A bacterium can be a complete single-celled organism, whereas a muscle cell is one specialized component of a multicellular organism.
+
+:::
+
+### What is a cell?
+
+### Cell theory
+
+### Cells as systems
+
+::: {.callout-note}
+## Common misconception
+
+:::
+
+::: {.callout-tip}
+## Think about it
+
+:::
+
+### Check your understanding
+
+<div class="quiz-question" id="cell-theory-q1">
+  <h3>Check your understanding</h3>
+  <p><strong>Which statement is part of modern cell theory?</strong></p>
+
+  <label>
+    <input type="radio" name="cell-theory-q1" value="a">
+    All cells contain a nucleus.
+  </label>
+  <br>
+
+  <label>
+    <input type="radio" name="cell-theory-q1" value="b">
+    All living organisms are made of one or more cells.
+  </label>
+  <br>
+
+  <label>
+    <input type="radio" name="cell-theory-q1" value="c">
+    All cells are visible with the naked eye.
+  </label>
+  <br>
+
+  <label>
+    <input type="radio" name="cell-theory-q1" value="d">
+    Cells arise spontaneously from non-living material.
+  </label>
+  <br><br>
+
+  <button type="button" onclick="checkCellTheoryQ1()">
+    Check answer
+  </button>
+
+  <p id="cell-theory-q1-feedback" aria-live="polite"></p>
+</div>
+
+<script>
+function checkCellTheoryQ1() {
+  const selected = document.querySelector(
+    'input[name="cell-theory-q1"]:checked'
+  );
+  const feedback = document.getElementById(
+    "cell-theory-q1-feedback"
+  );
+
+  if (!selected) {
+    feedback.textContent = "Choose an answer first.";
+    return;
+  }
+
+  if (selected.value === "b") {
+    feedback.textContent =
+      "Correct! Living organisms consist of one or more cells. " +
+      "Not all cells have a nucleus: prokaryotic cells do not.";
+    feedback.style.color = "green";
+  } else {
+    feedback.textContent =
+      "Not quite. Think about what all living organisms have in common. " +
+      "Some cells lack a nucleus, and cells are too small to see " +
+      "individually with the naked eye in most cases.";
+    feedback.style.color = "crimson";
+  }
+}
+</script>
+
+
+
+
+
+## 1.2 Cell structure
+
+### Prokaryotic cells
+
+### Eukaryotic cells
+
+### Comparing cell types
+
+### Check your understanding
+
+## 1.3 Cell specialization
+
+### Specialized cells
+
+### Structure and function
+
+### Differentiation
+
+### Check your understanding
+
+## 1.4 Membranes
+
+### Phospholipid bilayers
+
+### Membrane proteins
+
+### Membrane structure and function
+
+### Check your understanding
+
+## 1.5 Transport
+
+### Diffusion
+
+### Osmosis
+
+### Facilitated diffusion
+
+### Active transport
+
+### Check your understanding
+
+## Investigation
+
+## Data analysis
+
+## Exam practice
+
+## Chapter review
+
+### Key terms
+
+### Key ideas
+
+### Self-assessment

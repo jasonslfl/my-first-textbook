@@ -1,15 +1,11 @@
 ---
-title: "IB Biology"
-subtitle: "An Online Textbook for High School Students"
+title: "IB Biology: A New Approach"
 ---
 
-# Welcome
 
-Welcome to **IB Biology**.
+Welcome to **IB Biology: A New Approach**.
 
-This online textbook is designed to help high school students develop a strong conceptual understanding of biology.
 
-The goal isn't simply to memorize biological facts. Instead, we will focus on understanding how biological systems work, how scientists investigate them, and how different areas of biology connect with one another.
 
 ## How to use this book
 
@@ -22,7 +18,5 @@ Each chapter combines:
 - data-analysis activities
 - exam-style practice
 
-## Start here
 
-Begin with **Cell Biology** to build the foundation for
-understanding living systems.
+

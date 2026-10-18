@@ -1,4 +1,0 @@
-# Genetics
-
-This chapter introduces genes, inheritance, variation,
-and the relationship between DNA and biological traits.

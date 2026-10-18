@@ -2,22 +2,25 @@ project:
   type: book
 
 book:
-  title: "IB Biology"
-  subtitle: "An Online Textbook for High School Students"
-  author: "Jason"
+  title: "IB Biology: A New Approach"
 
   chapters:
     - index.qmd
-    - 01-cell-biology.qmd
-    - 02-molecular-biology.qmd
-    - 03-genetics.qmd
-    - 04-ecology.qmd
+    - part: "Introduction and Big Ideas"
+      chapters: 
+        - chapters/01-cell-biology/index.qmd
+    - part: "Thermodynamics and Metabolism"
+    - part: "Advanced Metabolism"
+    - part: "Replication and Renewal"
+    - part: "Stability and Change"
+   
+  
 
 format:
   html:
     theme: cosmo
     toc: true
-    number-sections: true
+    number-sections: false
 
 website:
   site-url: https://jasonslfl.github.io/my-first-textbook/
